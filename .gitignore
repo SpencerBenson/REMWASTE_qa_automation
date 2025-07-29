@@ -13,7 +13,8 @@ node_modules
 
 # misc
 .DS_Store
-.env
+#Though a security rik, I have decided to include he .env file for ease of instalation for this test purpose
+#.env
 .env.local
 .env.development.local
 .env.test.local
